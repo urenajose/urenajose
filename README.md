@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- - 🔭 I’m currently working on Tesseract-ocr
+- - 🔭 I’m currently training on Salesforce Trailhead
+- - 🌱 I’m currently learning how to train Tesseract-ocr custom font
+- - 📫 How to reach me: twitter @urenajose or urena.jose@gmail.com
