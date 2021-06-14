@@ -19,8 +19,3 @@ Here are some ideas to get you started:
 - - 🌱 I’m currently learning how to train Tesseract-ocr custom font
 - - 📫 How to reach me: twitter @urenajose or urena.jose@gmail.com
 <<<<<<< HEAD
-
-{% include_relative myfile.html}
-=======
-- {% include_relative https://chart-studio.plotly.com/~urena.jose/10}
->>>>>>> 5db8cc8458727f2f87428eaf5fb9a08c948dd37c
