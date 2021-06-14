@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
   <img src="https://github.com/urenajose/urenajose/blob/main/images/myvisualizations.gif" alt="Gift with visualizations" width="400"/>
 
-![Searchlight report]([Image URL](https://github.com/urenajose/urenajose/blob/main/images/2021-06-13_22-32-19.jpg))
+![Searchlight report]((https://github.com/urenajose/urenajose/blob/main/images/2021-06-13_22-32-19.jpg))
 https://www.searchlight.ai/
