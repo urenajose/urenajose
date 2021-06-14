@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@joseurena/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@joseurena/1" alt="Recent Article 1">
 
 <img src="https://github.com/urenajose/urenajose/blob/main/images/myvisualizations.gif" alt="Gift with visualizations" width="400"/>
-<img src="https://github.com/urenajose/urenajose/blob/main/images/myvisualizations.gif" alt="Gift with visualizations" width="800"/>
+<img src="https://github.com/urenajose/urenajose/blob/main/images/2021-06-13_22-32-19.jpg" alt="Gift with visualizations" width="800"/>
