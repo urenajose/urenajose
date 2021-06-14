@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - - 🌱 I’m currently learning how to train Tesseract-ocr custom font
 - - 📫 How to reach me: twitter @urenajose or urena.jose@gmail.com
 
-![Gift with Vizualizations](https://github.com/urenajose/urenajose/blob/main/images/myvisualizations.gif)
+
