@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - - 🔭 I’m currently working on Tesseract-ocr
 - - 📈 I'm addictive to productivity and learning
-- - 😎 I think MS excel is fun!
+- - 😎 I think MS excel is fun, I love list comprehension!
 - - 🌱 I’m currently training on Salesforce Trailhead
 - - 🌱 I’m currently learning how to train Tesseract-ocr custom font
 - - 📫 How to reach me: twitter @urenajose or urena.jose@gmail.com
