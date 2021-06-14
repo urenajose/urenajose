@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - - 🔭 I’m currently training on Salesforce Trailhead
 - - 🌱 I’m currently learning how to train Tesseract-ocr custom font
 - - 📫 How to reach me: twitter @urenajose or urena.jose@gmail.com
-<<<<<<< HEAD
