@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/urenajose/urenajose/blob/main/images/myvisualizations.gif" alt="Gift with visualizations" width="400"/>
 
-# **About me, according to my colleagues**
+### **About me, according to my colleagues**
 <img src="https://github.com/urenajose/urenajose/blob/main/images/2021-06-13_22-32-19.jpg" alt="Gift with visualizations" width="800"/>
