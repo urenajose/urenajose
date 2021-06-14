@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - - 🔭 I’m currently working on Tesseract-ocr
-- - 🔭 I’m currently training on Salesforce Trailhead
+- - 📈 I'm addictive to productivity and learning
+- - 😎 I think excel is fun!
+- - 🌱 I’m currently training on Salesforce Trailhead
 - - 🌱 I’m currently learning how to train Tesseract-ocr custom font
 - - 📫 How to reach me: twitter @urenajose or urena.jose@gmail.com
 
+**Medium Article:**
 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@joseurena/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@joseurena/1" alt="Recent Article 1">
