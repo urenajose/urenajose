@@ -21,25 +21,21 @@ Here are some ideas to get you started:
 - - 🌱 I’m currently learning how to train Tesseract-ocr custom font
 - - 📫 How to reach me: twitter @urenajose or urena.jose@gmail.com
 
-## Mental Health & Covid-19 aftermath                                     Medium Article
-## Data Exploration based on National Institute of Mental Health (NIMH) 2019 Report.
+## Mental Health & Covid-19 aftermath                                     [Medium Article](https://joseurena.medium.com/is-our-mental-health-system-ready-for-the-covid-19-aftermath-fa75a08243ab)
+Data Exploration based on National Institute of Mental Health (NIMH) 2019 Report.
 ML Model | Data Visualization | Statistical Analysis | PCA | Plotly | Matplotlib
--Wrangled, explored, and created Pandas DataFrame with data sets to prepare foundation for project
--Created Plotly & Matplotlib visualizations to easily present data to general public
--Ran statistical analyses of national, regional and state mental health facilities’ data with PCA and T-test
 
-## SalesForce\CRM Implementation & management                             
-[Indeed Assessment] (https://share.indeedassessments.com/attempts/e61ad09cdb0ec437a01768b70ea02095eed53dc074545cb7)
--Implemented SalesForce for Sales, Marketing, Customer Service teams
--Salesforce | Excel | SQL | Microsoft Server |
--Implemented Salesforce to build user accounts’ page layouts and dashboards to track clients and deliver reports for sales representatives and management
--Extracted, cleaned, merged data from SQL, Excel, ACT, Outlook, and other databases
--Queried and extracted SQL data & merge with Salesforce Data for UK FTSE 500
+- Wrangled, explored, and created Pandas DataFrame with data sets to prepare foundation for project
+- Created Plotly & Matplotlib visualizations to easily present data to general public
+- Ran statistical analyses of national, regional and state mental health facilities’ data with PCA and T-test
 
+## SalesForce\CRM Implementation & management                             [Indeed Assessment](https://share.indeedassessments.com/attempts/e61ad09cdb0ec437a01768b70ea02095eed53dc074545cb7)
+Implemented SalesForce for Sales, Marketing, Customer Service teams
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@joseurena/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@joseurena/1" alt="Recent Article 1">
-
-<img src="https://github.com/urenajose/urenajose/blob/main/images/myvisualizations.gif" alt="Gift with visualizations" width="400"/>
+- Salesforce | Excel | SQL | Microsoft Server |
+- Implemented Salesforce to build user accounts’ page layouts and dashboards to track clients and deliver reports for sales representatives and management
+- Extracted, cleaned, merged data from SQL, Excel, ACT, Outlook, and other databases
+- Queried and extracted SQL data & merge with Salesforce Data for UK FTSE 500
 
 ### **About me, according to my colleagues**
 <img src="https://github.com/urenajose/urenajose/blob/main/images/2021-06-13_22-32-19.jpg" alt="Gift with visualizations" width="800"/>
