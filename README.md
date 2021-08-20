@@ -40,3 +40,4 @@ Implemented SalesForce for Sales, Marketing, Customer Service teams
 ### **About me, according to my colleagues**
 <img src="https://github.com/urenajose/urenajose/blob/main/images/2021-06-13_22-32-19.jpg" alt="Gift with visualizations" width="800"/>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="938f2641-80de-4f8e-85a2-94d35032fcad" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
