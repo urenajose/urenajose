@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- - 🔭 I’m currently working on Tesseract-ocr
+- - 🔭 I’m currently working as Data Analyst for Emergency Rental Assistance Program (ERAP)
 - - 📈 I'm addictive to productivity and learning
 - - 😎 I think MS excel is fun, I love list comprehension!
-- - 🌱 I’m currently training on Salesforce Trailhead
-- - 🌱 I’m currently learning how to train Tesseract-ocr custom font
+- - 🌱 I’m currently training on MS PBI and Excel Power Query
+- - 🌱 I’m currently learning how to work with parquet files
 - - 📫 How to reach me: twitter @urenajose or urena.jose@gmail.com
 
 ## Mental Health & Covid-19 aftermath                                     [Medium Article](https://joseurena.medium.com/is-our-mental-health-system-ready-for-the-covid-19-aftermath-fa75a08243ab)
