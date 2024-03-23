@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - - 😎 I think MS excel is fun, I love list comprehension!
 - - 🌱 I’m currently training on PBI DAX, Python Programing...thinking about JavaScript
 - - 🌱 I’m currently learning how to work with work with Virtual env and pyproject.toml 
-- - 📫 How to reach me: twitter @urenajose, 📧urena.jose@gmail.com, [@linkedin](https://www.linkedin.com/in/josemurena/), 🐘[Mastodon](https://fosstodon.org/@Urenajose)
+- - 📫 How to reach me: [X](https://twitter.com/urenajose) 📧urena.jose@gmail.com, [@linkedin](https://www.linkedin.com/in/josemurena/), 🐘[Mastodon](https://fosstodon.org/@Urenajose)
 
 ## Mental Health & Covid-19 aftermath                                     [Medium Article](https://joseurena.medium.com/is-our-mental-health-system-ready-for-the-covid-19-aftermath-fa75a08243ab)
 Data Exploration based on National Institute of Mental Health (NIMH) 2019 Report.
