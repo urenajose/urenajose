@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - - 🔭 I’m currently working as Data Analyst for Emergency Rental Assistance Program (ERAP)
 - - 📈 I'm addictive to productivity and learning
 - - 😎 I think MS excel is fun, I love list comprehension!
-- - 🌱 I’m currently training on MS PBI and Excel Power Query
-- - 🌱 I’m currently learning how to work with parquet files
-- - 📫 How to reach me: twitter @urenajose or urena.jose@gmail.com
+- - 🌱 I’m currently training on PBI DAX, Python Programing...thinking about JavaScript
+- - 🌱 I’m currently learning how to work with work with Virtual env and pyproject.toml 
+- - 📫 How to reach me: twitter @urenajose, 📧urena.jose@gmail.com, [@](https://www.linkedin.com/in/josemurena/), 🐘https://fosstodon.org/@Urenajose
 
 ## Mental Health & Covid-19 aftermath                                     [Medium Article](https://joseurena.medium.com/is-our-mental-health-system-ready-for-the-covid-19-aftermath-fa75a08243ab)
 Data Exploration based on National Institute of Mental Health (NIMH) 2019 Report.
