@@ -10,7 +10,7 @@ Automation & Integration: Power Automate | Zapier | REST API
 
 AI & Emerging Tools: MS Copilot | Gemini | Local AI Agents & Frameworks (PI Agent, Ollama, llama.cpp)
 
-
+_______________________________________________
 <!--
 **urenajose/urenajose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
