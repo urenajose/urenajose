@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- - 🔭 I’m currently working as Data Analyst for Emergency Rental Assistance Program (ERAP)
+- - 🔭 I’m currently a freelance Data Analyst
 - - 📈 I'm addictive to productivity and learning
 - - 😎 I think MS excel is fun, I love list comprehension!
-- - 🌱 I’m currently training on PBI DAX, Python Programing...thinking about JavaScript
-- - 🌱 I’m currently learning how to work with work with Virtual env and pyproject.toml 
-- - 📫 How to reach me: [X](https://twitter.com/urenajose) 📧urena.jose@gmail.com, [@linkedin](https://www.linkedin.com/in/josemurena/), 🐘[Mastodon](https://fosstodon.org/@Urenajose)
+- - 🌱 I’m advance user of PBI, DAX, Python Pandas
+- - 🌱 I’m currently learning how to work with Local AI Models
+- - 📫 How to reach me: [X](https://x.com/urenajose) 📧urena.jose@gmail.com, [@linkedin](https://www.linkedin.com/in/josemurena/), 🐘[Mastodon](https://fosstodon.org/@Urenajose)
 
 ## Mental Health & Covid-19 aftermath                                     [Medium Article](https://joseurena.medium.com/is-our-mental-health-system-ready-for-the-covid-19-aftermath-fa75a08243ab)
 Data Exploration based on National Institute of Mental Health (NIMH) 2019 Report.
@@ -37,6 +37,4 @@ Implemented SalesForce for Sales, Marketing, Customer Service teams
 - Extracted, cleaned, merged data from SQL, Excel, ACT, Outlook, and other databases
 - Queried and extracted SQL data & merge with Salesforce Data for UK FTSE 500
 
-### **About me, according to my colleagues**
-<img src="https://github.com/urenajose/urenajose/blob/main/images/2021-06-13_22-32-19.jpg" alt="Gift with visualizations" width="800"/>
 
