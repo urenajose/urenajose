@@ -1,5 +1,16 @@
 ### Hi there my name is José M. Ureña (Last name pronounce oo-r-EH-n-y-aa)👋
 
+Data Analyst & Systems Administrator with a 10+ years operational background. Specialized in developing custom ETL pipelines, automating data workflows, and managing System of Record architectures for large-scale public and private programs.  Proficient in leveraging programming languages, command-line scripting, business visualization software/frameworks, API orchestration/implementation and AI agents/models. With a strong drive to dive deep into data, build scalable reporting frameworks, uncover trends and anomalies, and translate complex operational metrics into clear insights.
+
+Languages & Querying: Python (Data Analysis & Scripting) | SQL | SQLite | Power Query (M) | DAX | Pow-erShell | Bash
+BI & Visualization: Power BI | Matplotlib | Seaborn | Plotly | Visio | Mermaid | Marimo | Jupyter Notebooks
+
+Platforms & Admin: SharePoint (Admin) | SalesForce (Admin Configuration & CRM Management) | Mi-crosoft 365 | Azure Notebooks | SmartSheet | Airtable | Google Workspace | ArcGIS (Survey123)
+Automation & Integration: Power Automate | Zapier | REST API
+
+AI & Emerging Tools: MS Copilot | Gemini | Local AI Agents & Frameworks (PI Agent, Ollama, llama.cpp)
+
+
 <!--
 **urenajose/urenajose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
