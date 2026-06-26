@@ -54,5 +54,7 @@ Implemented SalesForce for Sales, Marketing, Customer Service teams
 - Extracted, cleaned, merged data from SQL, Excel, ACT, Outlook, and other databases
 - Queried and extracted SQL data & merge with Salesforce Data for UK FTSE 500
 
-### Tesseract-OCR extracting handwritten text
+### Tesseract-OCR: Extracting Handwritten Text (Video Walkthrough)
 https://www.youtube.com/watch?v=a5oeEhTf6_M
+### Medium Article and results
+https://medium.com/@joseurena/tesseract-ocr-evaluating-handwritten-text-recognition-1c6db85b2e7f
