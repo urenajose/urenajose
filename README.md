@@ -1,67 +1,68 @@
-### Hi there my name is José M. Ureña (Last name pronounce oo-r-EH-n-y-aa)👋
+# José M. Ureña
 
-Data Analyst & Systems Administrator with a 10+ years operational background. Specialized in developing custom ETL pipelines, automating data workflows, and managing System of Record architectures for large-scale public and private programs.  Proficient in leveraging programming languages, command-line scripting, business visualization software/frameworks, API orchestration/implementation and AI agents/models. With a strong drive to dive deep into data, build scalable reporting frameworks, uncover trends and anomalies, and translate complex operational metrics into clear insights.
+## Technical Data & Systems Analyst
+
+I build reliable data systems, automated workflows, audit-ready reporting, and practical dashboards for public-sector programs and business operations. I bring 5+ years of dedicated data-operations experience and 10+ years spanning CRM administration, business processes, and data-driven operations.
 
 [+1 (407) 498-6612](tel:+14074986612) | [jose@databyjose.com](mailto:jose@databyjose.com) | [LinkedIn](https://linkedin.com/in/josemurena) | [GitHub](https://github.com/urenajose)
 
-## Selected Projects
-
 **[Explore my project portfolio →](./PROJECTS.md)**
 
-Case studies covering disaster-recovery data systems, Power BI reporting, Microsoft 365 automation, public-program operations, nonprofit consulting, and applied machine learning.
+## Selected impact
 
-## Languages & Querying: 
-Python (Data Analysis & Scripting) | SQL | SQLite | Power Query (M) | DAX | Pow-erShell | Bash
-BI & Visualization: Power BI | Matplotlib | Seaborn | Plotly | Visio | Mermaid | Marimo | Jupyter Notebooks
+- Supported hands-on data analysis and administration across 14+ projects involving millions of records and more than $300M in federal, state, and municipal funding.
+- Built Power BI, Python, Excel, SharePoint, and Power Automate solutions for disaster recovery, housing assistance, childcare, and business operations.
+- Managed integrated program data supporting 1,000+ sheltered households, 2,350+ individuals, and 940+ pets across FEMA-funded temporary housing programs.
+- Automated applicant-documentation QA/QC with Power Automate and Power BI metadata tracking, producing an estimated 2,080 labor-hour reduction across Georgia and Iowa projects.
+- Developed audit-ready reporting, systems of record, ETL workflows, dashboards, forms, and technical documentation while safeguarding PII and sensitive program data.
 
-## Platforms & Admin: 
-SharePoint (Admin) | SalesForce (Admin Configuration & CRM Management) | Mi-crosoft 365 | Azure Notebooks | SmartSheet | Airtable | Google Workspace | ArcGIS (Survey123)
-Automation & Integration: Power Automate | Zapier | REST API
+## What I do
 
-## AI & Emerging Tools: 
-MS Copilot | Gemini | Local AI Agents & Frameworks (PI Agent, Ollama, llama.cpp)
+```text
+DATA SYSTEMS    systems of record / data administration / quality controls
+ANALYTICS       Power BI / Python / Excel / Power Query / DAX / SQL
+AUTOMATION      Power Automate / REST APIs / Microsoft 365 workflows
+REPORTING       operational KPIs / executive dashboards / compliance reporting
+ENABLEMENT      SOPs / training / troubleshooting / system handoff
+```
 
-_______________________________________________
-<!--
-**urenajose/urenajose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical capabilities
 
-Here are some ideas to get you started:
+**Analytics and querying:** Python, SQL, SQLite, Power Query (M), DAX, PowerShell, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- - 🔭 I’m currently a freelance Data Analyst
-- - 📈 I'm addictive to productivity and learning
-- - 😎 I think MS excel is fun, I love list comprehension!
-- - 🌱 I’m advance user of PBI, DAX, Python Pandas
-- - 🌱 I’m currently learning how to work with Local AI Models
+**Business intelligence and visualization:** Power BI, Excel, Matplotlib, Seaborn, Plotly, Visio, Mermaid, Folium
 
+**Platforms and administration:** SharePoint, Salesforce, Microsoft 365, Smartsheet, Airtable, Google Workspace, ArcGIS Survey123
 
-# Article and Publications
+**Automation and integration:** Power Automate, REST APIs, Zapier
 
-### Mental Health & Covid-19 aftermath                                     [Medium Article](https://joseurena.medium.com/is-our-mental-health-system-ready-for-the-covid-19-aftermath-fa75a08243ab)
-Data Exploration based on National Institute of Mental Health (NIMH) 2019 Report.
-ML Model | Data Visualization | Statistical Analysis | PCA | Plotly | Matplotlib
+**Applied AI and machine learning:** scikit-learn, Microsoft Copilot, Gemini, Ollama, llama.cpp
 
-- Wrangled, explored, and created Pandas DataFrame with data sets to prepare foundation for project
-- Created Plotly & Matplotlib visualizations to easily present data to general public
-- Ran statistical analyses of national, regional and state mental health facilities’ data with PCA and T-test
+## Work with me
 
-### SalesForce\CRM Implementation & management                             [Indeed Assessment](https://share.indeedassessments.com/attempts/e61ad09cdb0ec437a01768b70ea02095eed53dc074545cb7)
-Implemented SalesForce for Sales, Marketing, Customer Service teams
+I am open to Data Analyst, Business Intelligence, Reporting, Data Operations, and Business Systems roles, along with independent consulting engagements involving reporting automation, Microsoft 365 workflows, operational data systems, and technical documentation.
 
-- Salesforce | Excel | SQL | Microsoft Server |
-- Implemented Salesforce to build user accounts’ page layouts and dashboards to track clients and deliver reports for sales representatives and management
-- Extracted, cleaned, merged data from SQL, Excel, ACT, Outlook, and other databases
-- Queried and extracted SQL data & merge with Salesforce Data for UK FTSE 500
+## Articles and technical content
 
-### Tesseract-OCR: Extracting Handwritten Text (Video Walkthrough)
-https://www.youtube.com/watch?v=a5oeEhTf6_M
-### Medium Article and results
-https://medium.com/@joseurena/tesseract-ocr-evaluating-handwritten-text-recognition-1c6db85b2e7f
+### Mental health and the COVID-19 aftermath
+
+Explored National Institute of Mental Health data using Python, statistical analysis, PCA, Plotly, and Matplotlib.
+
+- [Read the Medium article](https://joseurena.medium.com/is-our-mental-health-system-ready-for-the-covid-19-aftermath-fa75a08243ab)
+- Prepared and analyzed national, regional, and state mental-health facility datasets.
+- Used PCA and t-tests to examine patterns and differences in the data.
+- Created public-facing interactive and static visualizations.
+
+### Tesseract OCR and handwritten-text recognition
+
+Evaluated handwriting recognition using Tesseract OCR, image preprocessing, character error rate, and fuzzy-match scoring.
+
+- [Watch the project walkthrough](https://www.youtube.com/watch?v=a5oeEhTf6_M)
+- [Read the technical article](https://medium.com/@joseurena/tesseract-ocr-evaluating-handwritten-text-recognition-1c6db85b2e7f)
+- [View Scribble Stadium contributions](https://github.com/Lambda-School-Labs/story-squad-ds/commits?author=urenajose)
+
+## Additional background
+
+- U.S. Army veteran, honorably discharged.
+- Native Spanish speaker.
+- Data Science Fellowship graduate, Lambda School.
