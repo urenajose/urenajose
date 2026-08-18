@@ -4,8 +4,6 @@
 
 I build operational data systems that turn fragmented program information into reliable reporting, case-management workflows, automated processes, and decision-ready dashboards. My work spans public-sector recovery programs, nonprofit operations, and applied machine learning.
 
-[+1 (407) 498-6612](tel:+14074986612) · [jose@databyjose.com](mailto:jose@databyjose.com) · [LinkedIn](https://linkedin.com/in/josemurena) · [GitHub](https://github.com/urenajose)
-
 Open to Data Analyst, Business Intelligence, Reporting, Data Operations, and Business Systems opportunities, as well as independent consulting engagements.
 
 ```text
