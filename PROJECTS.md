@@ -1,8 +1,12 @@
-# JOSE URENA / PROJECT INDEX
+# JOSE M. UREÑA / PROJECT PORTFOLIO
 
 `data systems` · `analytics` · `automation` · `disaster recovery`
 
-Selected work across public-sector programs, nonprofit operations, and applied machine learning. Dates are included as compact context because several consulting engagements overlapped.
+I build operational data systems that turn fragmented program information into reliable reporting, case-management workflows, automated processes, and decision-ready dashboards. My work spans public-sector recovery programs, nonprofit operations, and applied machine learning.
+
+[+1 (407) 498-6612](tel:+14074986612) · [jose@databyjose.com](mailto:jose@databyjose.com) · [LinkedIn](https://linkedin.com/in/josemurena) · [GitHub](https://github.com/urenajose)
+
+Open to Data Analyst, Business Intelligence, Reporting, Data Operations, and Business Systems opportunities, as well as independent consulting engagements.
 
 ```text
 FOCUS      operational data systems / reporting / automation
@@ -10,9 +14,20 @@ TOOLS      Python / SQL / Power BI / Excel / Google Workspace / Salesforce
 DOMAINS    disaster recovery / public assistance / housing / education / nonprofit
 ```
 
+## Featured work
+
+- [Georgia Hurricane Helene — Temporary Housing & Disaster Case Management](#02--georgia-hurricane-helene-ncs--dcm)
+- [Kitchen Unleashed — Expense System & Form Automation](#01--kitchen-unleashed--expense-system--form-automation)
+- [Iowa Non-Congregate Sheltering & Disaster Case Management](#03--iowa-non-congregate-sheltering--disaster-case-management)
+- [Scribble Stadium — Handwriting Recognition](#11--scribble-stadium)
+
+Dates are included as compact context because several consulting engagements overlapped. Client and survivor information is intentionally omitted; program values describe the scale of the work supported and are not presented as personally generated savings.
+
 ---
 
 ## 01 / KITCHEN UNLEASHED — EXPENSE SYSTEM & FORM AUTOMATION
+
+`featured project`
 
 `2026` · `volunteer consulting` · `Google Sheets` · `Google Forms` · `Apps Script`
 
@@ -31,6 +46,8 @@ IMPACT      $5,409 estimated value of donated professional services
 ---
 
 ## 02 / GEORGIA HURRICANE HELENE NCS & DCM
+
+`featured project`
 
 `Nov 2024–Dec 2025` · `lead analyst / data administrator` · `FEMA DR-4830`
 
@@ -80,6 +97,8 @@ The public pages establish the program's purpose and scale. My systems, reports,
 ---
 
 ## 03 / IOWA NON-CONGREGATE SHELTERING & DISASTER CASE MANAGEMENT
+
+`featured project`
 
 `Jul 2024–Jun 2025` · `lead analyst / data administrator` · `FEMA DR-4779 / DR-4784 / DR-4796`
 
@@ -198,6 +217,8 @@ IMPACT      analytics supported $90.5M in combined program allocations
 ---
 
 ## 11 / SCRIBBLE STADIUM
+
+`featured project`
 
 `machine learning` · `computer vision` · `educational technology`
 
