@@ -2,6 +2,14 @@
 
 Data Analyst & Systems Administrator with a 10+ years operational background. Specialized in developing custom ETL pipelines, automating data workflows, and managing System of Record architectures for large-scale public and private programs.  Proficient in leveraging programming languages, command-line scripting, business visualization software/frameworks, API orchestration/implementation and AI agents/models. With a strong drive to dive deep into data, build scalable reporting frameworks, uncover trends and anomalies, and translate complex operational metrics into clear insights.
 
+[+1 (407) 498-6612](tel:+14074986612) | [jose@databyjose.com](mailto:jose@databyjose.com) | [LinkedIn](https://linkedin.com/in/josemurena) | [GitHub](https://github.com/urenajose)
+
+## Selected Projects
+
+**[Explore my project portfolio →](./PROJECTS.md)**
+
+Case studies covering disaster-recovery data systems, Power BI reporting, Microsoft 365 automation, public-program operations, nonprofit consulting, and applied machine learning.
+
 ## Languages & Querying: 
 Python (Data Analysis & Scripting) | SQL | SQLite | Power Query (M) | DAX | Pow-erShell | Bash
 BI & Visualization: Power BI | Matplotlib | Seaborn | Plotly | Visio | Mermaid | Marimo | Jupyter Notebooks
@@ -33,7 +41,6 @@ Here are some ideas to get you started:
 - - 😎 I think MS excel is fun, I love list comprehension!
 - - 🌱 I’m advance user of PBI, DAX, Python Pandas
 - - 🌱 I’m currently learning how to work with Local AI Models
-- - 📫 How to reach me: [X](https://x.com/urenajose) 📧urena.jose@gmail.com, [@linkedin](https://www.linkedin.com/in/josemurena/), 🐘[Mastodon](https://fosstodon.org/@Urenajose)
 
 
 # Article and Publications
